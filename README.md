@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install` and `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -12,57 +12,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
+## What the page should look like
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot](screenshot.png)
 
-### `npm run build`
+## Boilerplate text
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Eenhoorns: bijzondere dieren
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Een eenhoorn is een mythisch dier dat sinds de Oudheid wordt beschreven als een beest met een lange, puntige hoorn midden op zijn voorhoofd. De hoorn is kaarsrecht en heeft een spiraalvormige groef.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+De eenhoorn stond afgebeeld op antieke zegels uit de Indusbeschaving en werd genoemd door auteurs uit de Griekse oudheid, zoals Ctesias, Strabo, Plinius de Jongere en Claudius Aelianus. De Bijbel beschrijft ook een dier, de re'em (waarschijnlijk een wilde stier of oeros), wat in sommige vertalingen ten onrechte werd weergegeven als 'eenhoorn'.
 
-### `npm run eject`
+In de Europese volkscultuur werd de eenhoorn vaak afgebeeld als een wit paard- of geitachtig dier met een lange hoorn en gekloofde hoeven (soms met een geitensik). In de Middeleeuwen en Renaissance werd het gewoonlijk gekarakteriseerd als een zeer wild dier uit de bossen, dat symbool stond voor zuiverheid en genade, dat alleen kon worden gevangen door een maagd. De hoorn zou vergiftigd water kunnen zuiveren en ziekten kunnen genezen. In deze eeuwen werd de tand van een narwal, die een spiraalvormige groef heeft, soms verkocht als hoorn van een eenhoorn.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Meer informatie => https://nl.wikipedia.org/wiki/Eenhoorn_(fabeldier)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Over de auteur => jouw linkedin pagina
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Als je eenhoorns stom vindt, klik hier => https://nl.wikipedia.org/wiki/Vissen_(dieren)
